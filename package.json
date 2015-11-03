@@ -12,6 +12,7 @@
     "express": "^4.13.3"
   },
   "devDependencies": {
+    "typescript": "next",
     "babel-preset-es2015": "^6.0.15"
   }
 }
