@@ -1080,5 +1080,5 @@ declare module "express" {
         var static: typeof serveStatic;
     }
 
-    export default e;
+    export = e;
 }
